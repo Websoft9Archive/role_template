@@ -22,7 +22,7 @@ This Role does not depend on other role variables in syntax, but it depend on ot
 ```
   roles:
     - {role: role_common, tags: "role_common"}
-    - {role: role_template, tags: "role_couchbase"}
+    - {role: role_template, tags: "role_template"}
 ```
 
 
