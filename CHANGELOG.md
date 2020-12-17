@@ -1,15 +1,11 @@
 # CHANGELOG
 
-## To do
+## Bug Fixes
 
-1. 更详细的规范说明
+### 2020-02-14 V5.0.1-1
 
-## Logs
+* 
 
-### Bug Fixes
+## Enhancement
 
-* 2020-02-14  
-
-### Features
-
-* 2020-03-27  创建本模板语法
+### 2020-02-14 V5.0.1-1
