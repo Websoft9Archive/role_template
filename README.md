@@ -71,6 +71,13 @@ docker_apps_dir: "/data/apps"
   
 ```
 
+## Resources
+
+* [Documentation](https://support.websoft9.com/docs/neo4j)
+* [Deploy by Image](https://apps.websoft9.com/neo4j)
+* [Deploy by Script](https://github.com/websoft9/ansible-neo4j)
+
+
 ## License
 
 [LGPL-3.0](/License.md), Additional Terms: It is not allowed to publish free or paid image based on this repository in any Cloud platform's Marketplace.
