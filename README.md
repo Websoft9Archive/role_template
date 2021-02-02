@@ -73,9 +73,9 @@ docker_apps_dir: "/data/apps"
 
 ## Resources
 
-* [Documentation](https://support.websoft9.com/docs/neo4j)
-* [Deploy by Image](https://apps.websoft9.com/neo4j)
-* [Deploy by Script](https://github.com/websoft9/ansible-neo4j)
+* [Documentation](https://support.websoft9.com/docs/rabbitmq)
+* [Deploy by Image](https://apps.websoft9.com/rabbitmq)
+* [Deploy by Script](https://github.com/websoft9/ansible-rabbitmq)
 
 
 ## License
