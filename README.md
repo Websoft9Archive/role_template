@@ -81,7 +81,7 @@ docker_apps_dir: "/data/apps"
 
 ```
 git clone https://github.com/Websoft9/role_template
-ansible-playbook role_template/tests/test.yml
+ansible-playbook role_template/tests/test.yml -e template_version="5.0"
 ```
 
 ## License
