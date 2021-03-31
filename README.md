@@ -77,6 +77,12 @@ docker_apps_dir: "/data/apps"
 * [Deploy by Image](https://apps.websoft9.com/rabbitmq)
 * [Deploy by Script](https://github.com/websoft9/ansible-rabbitmq)
 
+## Installation
+
+```
+git clone https://github.com/Websoft9/role_template
+ansible-playbook role_template/tests/test.yml
+```
 
 ## License
 
